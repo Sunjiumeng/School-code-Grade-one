@@ -1,5 +1,3 @@
-# -
-//在校代码
 #include <stdio.h>
 #include <math.h>
 #define pi 3.14159//定义pi的值
